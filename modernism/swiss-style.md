@@ -1,52 +1,62 @@
-# Swiss Style / International Typographic Style
+# Swiss Style (International Typographic Style)
 
-[Home](../README.md)
+**Category:** Modernist · [← Back to home](../README.md)
 
-## What is it?
+## 1. What is it?
 
-Swiss Style developed prominently in Switzerland during the 1940s and 1950s. It emphasizes typography, grids, asymmetrical organization, and photography. Its modernist concern is to create clear relationships between information and form. It is a graphic-design category and should not be confused with International Style architecture. [Historical context](https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/).
+Swiss Style is a graphic design movement that developed in Switzerland in the 1940s and 1950s. It is also called the International Typographic Style. Cooper Hewitt describes it as treating typography, especially sans-serif type, as a central element of design. ([Cooper Hewitt](https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/)) Designers such as Armin Hofmann and Josef Müller-Brockmann made posters for theaters, concerts, and museums that remain models of clear visual communication.
 
-## How do you recognize or use it?
+**Don't confuse it with:** The *International Style*, which is an architecture label. The two names are similar but refer to different things.
 
-- Consistent alignment and spacing connect related elements.
-- Sans-serif lettering often provides a clear hierarchy.
-- Asymmetrical layouts can remain controlled and balanced.
-- Photography, contrast, and negative space support the message rather than competing with it.
+**Relationship to modernism:** Swiss Style is modernism applied to graphic design. Its tools are order, clarity, and a systematic layout.
 
-**Suggested application:** For a hypothetical college conference website, give every session the same information order and align times, titles, and speakers. Use a restrained set of text sizes and weights. Let urgent updates stand out; a consistent grid should not hide meaningful differences.
+## 2. How do you recognize or use it?
 
-## Examples
+**Three visual features**
 
-These are historical works. Open each institutional link to view the work. Images are linked rather than reproduced because an open reuse license has not been established. The brief design readings explain why the examples are relevant; suggested website applications above are original interpretations.
+1. **A visible grid.** Text and images line up on a consistent structure, often in asymmetric layouts.
+2. **Sans-serif type as the main graphic element.** Large, tightly set words can carry an entire poster.
+3. **Strong contrasts.** Black and white, large and small, sharp and soft. The tension between elements creates energy without decoration.
 
-### Example 1: Giselle
+**Audience and uses:** Brands that want to seem trustworthy, intelligent, and organized, such as museums, finance, education, tech, and transit.
 
-- **Creator:** Armin Hofmann; photograph credited in the record to Merkle.
-- **Title:** *Giselle*.
-- **Date:** 1959.
-- **Institution:** Cooper Hewitt, Smithsonian Design Museum, New York.
-- **Direct source and image:** [View the work and institutional record](https://www.si.edu/object/chndm_1997-19-142).
+**In a website hero:** Use a 12-column grid, one large headline in a sans-serif (for example Helvetica, Inter, or Akzidenz-style), a black-and-white photo, and a single accent color reserved for the CTA.
 
-**What it demonstrates:** A blurred dancer contrasts with firm, vertical lettering. The black-and-white composition shows how a limited vocabulary can still communicate movement and drama. The poster advertises a ballet performance rather than using abstraction without a subject.
+## 3. Examples
 
-**Image credit and reuse:** Cooper Hewitt, object 1997-19-142; Gift of Ken Friedman. Smithsonian marks the image 'Usage conditions apply'; link provided instead of reproduction.
+### Example 1: *Giselle* poster, Armin Hofmann, 1959
 
-### Example 2: Das Freundliche Handzeichen, Schützt vor Unfällen
+| Field | Record |
+|---|---|
+| Creator | Armin Hofmann (photo: Merkle; printer: Wassermann A.G.) |
+| Title | Giselle, Basler Freilichtspiele |
+| Date | 1959 |
+| Institution | Cooper Hewitt, Smithsonian Design Museum (also held by MoMA, object no. 380.1963) |
+| Source | https://collection.cooperhewitt.org/objects/18673303/ |
+| Image credit / reuse | Check Cooper Hewitt's reuse terms on the object page. **If they're unclear, link only.** |
 
-- **Creator:** Josef Müller-Brockmann.
-- **Title:** *Das Freundliche Handzeichen, Schützt vor Unfällen*.
-- **Date:** 1954.
-- **Institution:** MoMA, New York.
-- **Direct source and image:** [View the work and institutional record](https://www.moma.org/collection/works/5528).
+**Why it matters:** The poster advertised an open-air ballet in Basel. Cooper Hewitt explains how the contrast between its elements makes the composition feel alive: a blurred photo of a spinning dancer beside the hard-edged word "Giselle," set vertically. ([Cooper Hewitt](https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/))
 
-**What it demonstrates:** This road-safety poster shows Swiss graphic design addressing public communication. Study the contrast between its dominant hand image and supporting text. The lesson is a clear focal point supported by organized information, rather than several equal points of emphasis.
+**Feature to adapt:** Pair one soft, moving photo with one sharp, solid headline.
 
-**Image credit and reuse:** MoMA, object 177.1991; Gift of The Lauder Foundation, Leonard and Evelyn Lauder Fund. Image reproduction follows MoMA's licensing process.
+### Example 2: *Der Film* poster, Josef Müller-Brockmann, 1960
 
-## Sources
+| Field | Record |
+|---|---|
+| Creator | Josef Müller-Brockmann |
+| Title | Der Film |
+| Date | 1960 |
+| Institution | The Museum of Modern Art, New York (object no. 57.1960, gift of the Kunstgewerbe Museum, Zürich) |
+| Source | https://www.moma.org/collection/works/4882 |
+| Image credit / reuse | © MoMA. Reproduction is licensed through Art Resource, so **link only, don't embed**. |
 
-- [Cooper Hewitt: A Harmony of Contrasts](https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/).
-- [Cooper Hewitt, Smithsonian Design Museum, New York: Giselle](https://www.si.edu/object/chndm_1997-19-142).
-- [MoMA, New York: Das Freundliche Handzeichen, Schützt vor Unfällen](https://www.moma.org/collection/works/5528).
+**Why it matters:** This offset lithograph advertised a film exhibition in Zürich. The design is made almost entirely of type on a dark background, with the words arranged and repeated to suggest moving film titles.
 
-Sources consulted October 1, 2026. Collection credit lines identify gifts or acquisitions; they are not, by themselves, image reproduction licenses.
+**Feature to adapt:** A type-only hero. Let the headline, scale, and placement do all the work.
+
+## 4. Sources
+
+- Cooper Hewitt, "A Harmony of Contrasts," 2018. https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/
+- Cooper Hewitt collection, Armin Hofmann, *Poster, Giselle*, 1959. https://collection.cooperhewitt.org/objects/18673303/
+- MoMA, Armin Hofmann, *Giselle, Basler Freilichtspiele*, 1959. https://www.moma.org/collection/works/6775
+- MoMA, Josef Müller-Brockmann, *Der Film*, 1960. https://www.moma.org/collection/works/4882

@@ -1,52 +1,59 @@
 # De Stijl
 
-[Home](../README.md)
+**Category:** Modernist · [← Back to home](../README.md)
 
-## What is it?
+## 1. What is it?
 
-De Stijl developed around a Dutch journal founded in 1917. It explored an abstract language of planes, lines, and color across art, furniture, and architecture. Its search for a coherent visual order connects it to modernist ambitions to rethink the environment. The examples here show the same design concerns at the scale of a chair and a house. [Historical context](https://www.nationalgalleries.org/art-and-artists/glossary-terms/de-stijl-style).
+De Stijl ("The Style") was a Dutch movement in art, architecture, and design that began in 1917. Its best-known members include the painter Piet Mondrian and the designer and architect Gerrit Rietveld. MoMA explains that the group hoped a harmonious, human-made order could help renew Europe after the destruction of World War I. ([MoMA](https://www.moma.org/collection/works/4044))
 
-## How do you recognize or use it?
+**Relationship to modernism:** De Stijl is an early modernist movement. It reduced design to a few universal elements: straight lines, flat planes, and a limited set of colors.
 
-- Horizontal and vertical relationships organize the best-known compositions.
-- Rectangular planes and primary colors interact with black, white, and gray.
-- Asymmetry can produce balance without mirrored halves.
-- The spaces between parts matter as much as the solid elements.
+## 2. How do you recognize or use it?
 
-**Suggested application:** An architecture portfolio could use rectangular panels and colored accents to distinguish projects. Let the panels respond to actual content and screen size. This is an original adaptation: a website should not crop essential text merely to imitate a painting.
+**Three visual features**
 
-## Examples
+1. **Horizontals and verticals only.** Compositions are built from right angles. There are no curves or diagonals.
+2. **Primary colors plus black, white, and gray.** Red, yellow, and blue are used in flat blocks, never as shading. ([MoMA](https://www.moma.org/collection/works/4044))
+3. **Separate, overlapping planes.** Each part keeps its own shape, position, and color, so you can see how the whole is assembled.
 
-These are historical works. Open each institutional link to view the work. Images are linked rather than reproduced because an open reuse license has not been established. The brief design readings explain why the examples are relevant; suggested website applications above are original interpretations.
+**Audience and uses:** Brands that want to feel bold, orderly, and playful at once, such as design studios, toys, galleries, and education.
 
-### Example 1: Red Blue Chair
+**In a website hero:** Divide the hero into asymmetric rectangles with thick black lines. Fill one block with the headline and one small block in a primary color with the CTA. Keep at least one large white area so the layout can breathe.
 
-- **Creator:** Gerrit Rietveld.
-- **Title:** *Red Blue Chair*.
-- **Date:** 1918–1923; the primary-color scheme was applied around 1923.
-- **Institution:** MoMA, New York.
-- **Direct source and image:** [View the work and institutional record](https://www.moma.org/collection/works/4044).
+## 3. Examples
 
-**What it demonstrates:** Separate wooden members and colored planes make the chair read as an arrangement of lines and surfaces. Its construction connects abstract composition with a usable object. The date range matters because the familiar colors were not part of its earliest version.
+### Example 1: Red Blue Chair, Gerrit Rietveld, 1918–1923
 
-**Image credit and reuse:** MoMA, object 487.1953; collection credit: Gift of Philip Johnson. Use the collection record for image licensing.
+| Field | Record |
+|---|---|
+| Creator | Gerrit Rietveld |
+| Title | Red Blue Chair |
+| Date | Designed 1918; color scheme applied around 1923 |
+| Institution | The Museum of Modern Art, New York |
+| Source | https://www.moma.org/collection/works/4044 |
+| Image credit / reuse | © Artists Rights Society (ARS), New York / Beeldrecht, Amsterdam. **Link only, don't embed.** |
 
-### Example 2: Rietveld Schröder House
+**Why it matters:** MoMA notes that Rietveld built the chair from standard lumber sizes, hoping furniture like this could be mass-produced. The famous red, yellow, blue, and black colors were added years after the original design.
 
-- **Creator:** Gerrit Rietveld, working with client and design collaborator Truus Schröder.
-- **Title:** *Rietveld Schröder House*.
-- **Date:** 1924.
-- **Institution:** Rietveld Schröder House / Centraal Museum, Utrecht.
-- **Direct source and image:** [View the work and institutional record](https://www.rietveldschroderhuis.nl/en).
+**Feature to adapt:** Make each part of the hero a clearly separate plane: the image block, the text block, and the button. Color-code them by role.
 
-**What it demonstrates:** The building extends planes, primary-color accents, and horizontal/vertical relationships into three dimensions. Sliding partitions allow the upper floor to change configuration. It demonstrates that the style could organize daily activity as well as exterior appearance.
+### Example 2: Rietveld Schröder House, Gerrit Rietveld, 1924
 
-**Image credit and reuse:** Images are presented by the Rietveld Schröder House / Centraal Museum. Individual photographs may have separate credits; no blanket reuse permission is assumed.
+| Field | Record |
+|---|---|
+| Creator | Gerrit Rietveld, for and with Truus Schröder-Schräder |
+| Title | Rietveld Schröder House (Rietveld Schröderhuis), Utrecht |
+| Date | 1924 |
+| Institution | Run as a museum by the Centraal Museum, Utrecht; UNESCO World Heritage Site (2000) |
+| Source | https://whc.unesco.org/en/list/965 |
+| Image credit / reuse | Use images from the UNESCO page only under the terms shown there. **Otherwise link only.** |
 
-## Sources
+**Why it matters:** UNESCO describes the house as a manifesto of De Stijl ideals, noting its flexible interior layout and its visual and formal qualities. It brings the chair's language of planes and colors to the scale of a whole building.
 
-- [National Galleries of Scotland: De Stijl](https://www.nationalgalleries.org/art-and-artists/glossary-terms/de-stijl-style).
-- [MoMA, New York: Red Blue Chair](https://www.moma.org/collection/works/4044).
-- [Rietveld Schröder House / Centraal Museum, Utrecht: Rietveld Schröder House](https://www.rietveldschroderhuis.nl/en).
+**Feature to adapt:** Flexible structure. Design hero blocks that can rearrange on a phone screen without losing the overall composition.
 
-Sources consulted October 1, 2026. Collection credit lines identify gifts or acquisitions; they are not, by themselves, image reproduction licenses.
+## 4. Sources
+
+- MoMA, Gerrit Rietveld, *Red Blue Chair*, 1918–1923. https://www.moma.org/collection/works/4044
+- MoMA, art term "de Stijl." https://www.moma.org/collection/terms/de-stijl
+- UNESCO World Heritage Centre, "Rietveld Schröderhuis (Rietveld Schröder House)." https://whc.unesco.org/en/list/965

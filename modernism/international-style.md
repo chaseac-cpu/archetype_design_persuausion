@@ -1,54 +1,62 @@
-# International Style Architecture
+# International Style (Architecture)
 
-[Home](../README.md)
+**Category:** Modernist · [← Back to home](../README.md)
 
-## What is it?
+## 1. What is it?
 
-The International Style is an architectural strand of modernism associated with rectilinear form, reduced ornament, and materials such as steel, reinforced concrete, and glass. Henry-Russell Hitchcock and Philip Johnson coined the label. It became influential through architectural discourse and exhibitions, including MoMA's 1932 Modern Architecture exhibition. It is not a complete definition of modernism. [Historical context](https://www.moma.org/collection/terms/international-style).
+The International Style is a type of modern architecture that emerged in Europe, mainly Germany and France, in the 1920s and 1930s. Historian Henry-Russell Hitchcock and architect Philip Johnson coined the name to describe plain, undecorated buildings made of rectangular forms in steel, reinforced concrete, and glass. ([MoMA](https://www.moma.org/collection/works/82404)) The label became famous through MoMA's first architecture exhibition in 1932. ([MoMA](https://www.moma.org/collection/works/82339))
 
-## How do you recognize or use it?
+**Don't confuse it with:** The *International Typographic Style* (Swiss Style), which is about graphic design.
 
-- Simple volumes replace applied historical decoration.
-- Visible or clearly organized structural systems shape the composition.
-- Open space and glazing can change the relationship between interior and exterior.
-- Repeated proportions and horizontal or vertical elements create coherence.
+**Relationship to modernism:** This is one strand of modern architecture. It is not a complete definition of modernism.
 
-**Suggested application:** As an original website analogy, separate the information structure from its visual decoration: establish navigation, content regions, and reading order first. Use open space to reveal relationships. Architecture and websites have different constraints, so treat this as interpretation, not a claim that a building supplies a ready-made interface.
+## 2. How do you recognize or use it?
 
-## Examples
+**Three visual features**
 
-These are historical works. Open each institutional link to view the work. Images are linked rather than reproduced because an open reuse license has not been established. The brief design readings explain why the examples are relevant; suggested website applications above are original interpretations.
+1. **Plain rectangular volumes.** Boxes with flat roofs and no ornament.
+2. **Industrial materials shown openly.** Concrete, steel, and large areas of glass, often with long horizontal window bands.
+3. **Lightness and openness.** Buildings are often raised on thin columns, with open floor plans and plenty of light.
 
-### Example 1: Villa Savoye
+**Audience and uses:** Brands that want to seem calm, premium, and rational, such as architecture firms, real estate, hotels, and high-end products.
 
-- **Creator:** Le Corbusier and Pierre Jeanneret.
-- **Title:** *Villa Savoye*.
-- **Date:** 1928–1931 project; construction 1929–1931.
-- **Institution:** Centre des monuments nationaux, Villa Savoye, Poissy, France.
-- **Direct source and image:** [View the work and institutional record](https://www.villa-savoye.fr/en/discover/history-of-the-villa-savoye).
+**In a website hero:** Use a wide horizontal composition, lots of white space, a single clean photo of a simple form, thin sans-serif type, and a restrained CTA in one accent color.
 
-**What it demonstrates:** The elevated main volume, long windows, roof terrace, and open circulation demonstrate a rethinking of the conventional house. Its geometry connects structure, movement, and the surrounding site. The companion official visitor guide credits both architects and specifies construction dates.
+## 3. Examples
 
-**Image credit and reuse:** Images: Centre des monuments nationaux / Villa Savoye, with individual photographer credits on the site. No open reuse license has been established.
+### Example 1: Villa Savoye, Le Corbusier and Pierre Jeanneret, 1928–1931
 
-### Example 2: Edith Farnsworth House
+| Field | Record |
+|---|---|
+| Creator | Le Corbusier (Charles-Édouard Jeanneret) and Pierre Jeanneret |
+| Title | Villa Savoye, Poissy-sur-Seine, France (scale model, 1:33.3) |
+| Date | Building 1928–1931; model 1932 |
+| Institution | The Museum of Modern Art, New York (object no. 48.1932) |
+| Source | https://www.moma.org/collection/works/82339 |
+| Image credit / reuse | © ARS, New York / ADAGP, Paris / FLC. **Link only, don't embed.** |
 
-- **Creator:** Ludwig Mies van der Rohe.
-- **Title:** *Edith Farnsworth House*.
-- **Date:** Completed 1951.
-- **Institution:** Edith Farnsworth House, National Trust for Historic Preservation, Plano, Illinois.
-- **Direct source and image:** [View the work and institutional record](https://edithfarnsworthhouse.org/history-farnsworth-house/).
+**Why it matters:** MoMA calls the villa perhaps the finest example of Le Corbusier's early work. It notes that the design applies his "five points of architecture": columns (pilotis), a free plan, a free façade, horizontal window bands, and a roof garden. This model appeared in MoMA's 1932 exhibition that helped define the International Style. The [Fondation Le Corbusier](https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/) gives the building's dates as 1928–1931.
 
-**What it demonstrates:** Horizontal planes, steel supports, and glass walls make structure and the surrounding landscape prominent. The house demonstrates the power of reduction, but the site's history also discusses questions about practicality and living in such an exposed interior.
+**Feature to adapt:** The horizontal window band. Use one long horizontal strip for the headline and CTA across the hero.
 
-**Image credit and reuse:** Official site: Edith Farnsworth House / National Trust for Historic Preservation. Site copyright and individual photo rights apply; photographs are linked rather than copied.
+### Example 2: The Museum of Modern Art building, Philip L. Goodwin and Edward Durell Stone, 1939
 
-## Sources
+| Field | Record |
+|---|---|
+| Creator | Philip L. Goodwin and Edward Durell Stone (model maker: Theodore Conrad) |
+| Title | The Museum of Modern Art, New York City, New York (architectural model) |
+| Date | 1939 |
+| Institution | The Museum of Modern Art, New York (object no. 685.1939) |
+| Source | https://www.moma.org/collection/works/82404 |
+| Image credit / reuse | © MoMA. Reproduction is licensed through Art Resource, so **link only, don't embed**. |
 
-- [MoMA: International Style](https://www.moma.org/collection/terms/international-style).
-- [Centre des monuments nationaux, Villa Savoye, Poissy, France: Villa Savoye](https://www.villa-savoye.fr/en/discover/history-of-the-villa-savoye).
-- [Edith Farnsworth House, National Trust for Historic Preservation, Plano, Illinois: Edith Farnsworth House](https://edithfarnsworthhouse.org/history-farnsworth-house/).
-- [Centre des monuments nationaux: Villa Savoye official visitor guide (French; architects and construction dates)](https://www.villa-savoye.fr/content/download/9824393/file/document-visite-villa-savoye-FR-2021.pdf?version=3).
-- [MoMA: Modern Architecture, 1932 exhibition](https://www.moma.org/calendar/exhibitions/2044).
+**Why it matters:** MoMA's label describes the building as a white box with a glass base, translucent gallery glazing, and horizontal strip windows. It stood out sharply against the traditional townhouses on its street. It shows the style arriving in the United States.
 
-Sources consulted October 1, 2026. Collection credit lines identify gifts or acquisitions; they are not, by themselves, image reproduction licenses.
+**Feature to adapt:** Contrast with context. A plain, bright hero can stand out against a busy page or a competitor's cluttered design.
+
+## 4. Sources
+
+- MoMA, Philip L. Goodwin and Edward Durell Stone, *The Museum of Modern Art, New York City, New York*, 1939 (includes MoMA's International Style definition). https://www.moma.org/collection/works/82404
+- MoMA, Le Corbusier and Pierre Jeanneret, *Villa Savoye* (scale model), 1932. https://www.moma.org/collection/works/82339
+- Fondation Le Corbusier, "Villa Savoye and Gardener's Lodge, Poissy, 1928–1931." https://www.fondationlecorbusier.fr/en/work-architecture/achievements-villa-savoye-and-gardeners-lodge-poissy-france-1928-1931/
+- Tate, art term "International style." https://www.tate.org.uk/art/art-terms/i/international-style

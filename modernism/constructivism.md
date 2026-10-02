@@ -1,52 +1,61 @@
 # Constructivism
 
-[Home](../README.md)
+**Category:** Modernist · [← Back to home](../README.md)
 
-## What is it?
+## 1. What is it?
 
-Constructivism developed in the Russian avant-garde and the context of revolutionary social change. Designers explored geometry, construction, and communication as alternatives to art understood only as individual expression. In graphic design, books and posters became sites for combining text and imagery into forceful public messages. Historical political context is essential to understanding the work. [Historical context](https://www.moma.org/collection/terms/constructivism).
+Constructivism grew out of the Russian avant-garde around the October Revolution of 1917. MoMA explains that its artists, led by Aleksandr Rodchenko, believed the new society needed a new visual language. They saw the artist as an engineer whose work should serve a social or practical purpose rather than personal expression. ([MoMA](https://www.moma.org/collection/terms/constructivism)) That is why so much Constructivist work is posters, books, and advertising.
 
-## How do you recognize or use it?
+**Relationship to modernism:** Constructivism shares modernism's belief that design should do useful work. It aimed that work at mass communication and politics.
 
-- Geometric organization creates strong direction and emphasis.
-- Lettering participates in the composition instead of functioning only as a caption.
-- Photographic fragments or photomontage may connect abstract shapes with recognizable subjects.
-- Sharp contrasts and changes of scale can give a message urgency; not every example uses the same palette.
+## 2. How do you recognize or use it?
 
-**Suggested application:** For an original community printmaking-event page, try one forceful headline and a structured combination of image and text. Keep time, location, and registration information easy to read. Borrow compositional methods with an understanding of their history rather than using political symbols as unexplained decoration.
+**Three visual features**
 
-## Examples
+1. **Diagonals and dynamic angles.** Shapes and type cut across the page to create movement and urgency.
+2. **A limited palette, often red and black on off-white.** The colors are few but high in contrast.
+3. **Type as an image.** Bold letters are sized, rotated, and arranged as part of the composition, sometimes combined with photographs or geometric forms.
 
-These are historical works. Open each institutional link to view the work. Images are linked rather than reproduced because an open reuse license has not been established. The brief design readings explain why the examples are relevant; suggested website applications above are original interpretations.
+**Audience and uses:** Brands that want to feel urgent, energetic, or rebellious, such as campaigns, events, music, and activism.
 
-### Example 1: Printer's proof of cover for Kniga o knigakh (Book about Books), no. 4
+**In a website hero:** Tilt a red shape or block of text on a diagonal that points straight at the CTA button. Use one heavy sans-serif headline and two or three colors.
 
-- **Creator:** Aleksandr Rodchenko.
-- **Title:** *Printer's proof of cover for Kniga o knigakh (Book about Books), no. 4*.
-- **Date:** 1924.
-- **Institution:** MoMA, New York.
-- **Direct source and image:** [View the work and institutional record](https://www.moma.org/collection/works/14181).
+**Use with care:** These posters were political propaganda. Borrow the visual technique, not the message, and avoid using its energy to push people unfairly.
 
-**What it demonstrates:** This letterpress cover demonstrates the importance of publication design in Rodchenko's practice. Study how the text and geometric arrangement establish visual emphasis. It is a specific printed design, not an example invented to resemble a Soviet poster.
+## 3. Examples
 
-**Image credit and reuse:** MoMA, object 240.2001; collection credit: Gift of The Judith Rothschild Foundation. Consult MoMA's Licensing section.
+### Example 1: *Beat the Whites with the Red Wedge*, El Lissitzky, 1920
 
-### Example 2: USSR Russische Ausstellung
+| Field | Record |
+|---|---|
+| Creator | El Lissitzky |
+| Title | Klinom krasnym bei belykh (Beat the Whites with the Red Wedge) |
+| Date | 1920 (some sources give 1919) |
+| Institution | Museum of Fine Arts, Boston (accession no. 2000.1069) |
+| Source | https://collections.mfa.org/objects/314484/klinom-krasnym-bei-belykh-beat-the-whites-with-the-red-wedg |
+| Image credit / reuse | Check the reuse terms on the MFA page before embedding. **If they're unclear, link only.** |
 
-- **Creator:** El Lissitzky.
-- **Title:** *USSR Russische Ausstellung*.
-- **Date:** 1929.
-- **Institution:** MoMA, New York.
-- **Direct source and image:** [View the work and institutional record](https://www.moma.org/collection/works/6458).
+**Why it matters:** The MFA records it as a color lithograph printed in red and black, made as a Bolshevik poster during the Civil War. A sharp red triangle pierces a white circle, telling a story using only shapes.
 
-**What it demonstrates:** This exhibition poster integrates a photographic face, oversized lettering, and contrasting regions. Its combination of image and typography turns the page into a unified announcement. It illustrates Constructivist graphic strategies extending into international exhibition publicity.
+**Feature to adapt:** Use a single directional shape (a wedge or arrow) that leads the viewer's eye to the CTA.
 
-**Image credit and reuse:** MoMA, object 353.1937; Purchase Fund, Jan Tschichold Collection. The record credits Artists Rights Society / VG Bild-Kunst; reproduction is not assumed to be unrestricted.
+### Example 2: Poster for the Russian state airline Dobrolet, Aleksandr Rodchenko, 1923
 
-## Sources
+| Field | Record |
+|---|---|
+| Creator | Aleksandr Rodchenko |
+| Title | Poster for the Russian state airline Dobrolet |
+| Date | 1923 |
+| Institution | The Museum of Modern Art, New York (object no. 623.2018, The Merrill C. Berman Collection) |
+| Source | https://www.moma.org/collection/works/220951 |
+| Image credit / reuse | © Estate of Alexander Rodchenko / UPRAVIS, Moscow / ARS, NY. **Link only, don't embed.** |
 
-- [MoMA: Constructivism](https://www.moma.org/collection/terms/constructivism).
-- [MoMA, New York: Printer's proof of cover for Kniga o knigakh (Book about Books), no. 4](https://www.moma.org/collection/works/14181).
-- [MoMA, New York: USSR Russische Ausstellung](https://www.moma.org/collection/works/6458).
+**Why it matters:** This lithograph was made for a commercial client, not just for politics. It shows Constructivist methods used in advertising, which is the closest historical parallel to a brand hero.
 
-Sources consulted October 1, 2026. Collection credit lines identify gifts or acquisitions; they are not, by themselves, image reproduction licenses.
+**Feature to adapt:** Make the brand name and the offer the largest elements on the page. In Constructivist advertising, the words carry the design.
+
+## 4. Sources
+
+- MoMA, art term "Constructivism." https://www.moma.org/collection/terms/constructivism
+- Museum of Fine Arts, Boston, El Lissitzky, *Klinom krasnym bei belykh*, 1920. https://collections.mfa.org/objects/314484/klinom-krasnym-bei-belykh-beat-the-whites-with-the-red-wedg
+- MoMA, Aleksandr Rodchenko, *Poster for the Russian state airline Dobrolet*, 1923. https://www.moma.org/collection/works/220951

@@ -1,51 +1,62 @@
-# Mid-century Modern Design
+# Mid-Century Modern
 
-[Home](../README.md)
+**Category:** Modernist · [← Back to home](../README.md)
 
-## What is it?
+## 1. What is it?
 
-Mid-century modern is a broad label for modern design around the middle of the twentieth century, rather than one school with a single manifesto. This page concentrates on postwar furniture: designs that combined industrial techniques with bodily comfort and domestic use. The examples show modernism accommodating curved, organic forms as well as straight geometry. [Historical context](https://www.moma.org/collection/works/2298).
+"Mid-Century Modern" is a common name for modern design from roughly the 1940s to the 1960s, especially furniture, interiors, and houses in the United States. It is a later label used by collectors and writers, not the name of an organized movement. After World War II, designers used new materials and techniques, such as molded plywood, fiberglass, and cast aluminum, to make modern forms affordable and comfortable. ([Saint Louis Art Museum](https://www.slam.org/collection/objects/38546/))
 
-## How do you recognize or use it?
+A key starting point was MoMA's 1940 *Organic Design in Home Furnishings* competition. Eero Saarinen and Charles Eames won with a molded chair design, which the Brooklyn Museum credits with setting the stage for mid-century furniture. ([Brooklyn Museum](https://www.brooklynmuseum.org/opencollection/objects/1588))
 
-- Simple silhouettes coexist with curves adapted to the body.
-- Plywood, metal, and newer manufactured materials enable different structures.
-- A reduced number of parts may give an object visual clarity.
-- Domestic comfort and repeatable manufacture are important questions, even when products are not inexpensive.
+**Relationship to modernism:** This is a later, warmer phase of modernism. It keeps the focus on function and simple form, but adds curves, natural materials, and color.
 
-**Suggested application:** A hypothetical home-goods website could combine orderly product information with warm imagery and gently curved graphic elements. Show scale, construction, and use rather than relying only on a nostalgic palette. Rounded corners alone do not identify a historical style.
+## 2. How do you recognize or use it?
 
-## Examples
+**Three visual features**
 
-These are historical works. Open each institutional link to view the work. Images are linked rather than reproduced because an open reuse license has not been established. The brief design readings explain why the examples are relevant; suggested website applications above are original interpretations.
+1. **Organic, curved forms.** Smooth shells and rounded shapes replace the hard right angles of earlier modernism.
+2. **New materials shown honestly.** Molded plywood, fiberglass, and aluminum, with their construction visible.
+3. **Warm, optimistic palette.** Wood tones, off-whites, and accents such as mustard, orange, olive, and teal.
 
-### Example 1: Low Side Chair (model LCM)
+**Audience and uses:** Brands that want to feel friendly, modern, and approachable, such as home goods, cafés, lifestyle products, and design shops.
 
-- **Creator:** Charles Eames and Ray Eames.
-- **Title:** *Low Side Chair (model LCM)*.
-- **Date:** 1946.
-- **Institution:** MoMA, New York.
-- **Direct source and image:** [View the work and institutional record](https://www.moma.org/collection/works/2298).
+**In a website hero:** Use soft rounded shapes, a warm cream background, one product photo with natural light, a friendly sans-serif headline, and a rounded CTA button in an accent color.
 
-**What it demonstrates:** Molded plywood supports the body while a metal base gives the chair a light outline. It connects experimentation with a manufactured domestic product. Compare its curves with the planar Red Blue Chair to see variation within modernism.
+## 3. Examples
 
-**Image credit and reuse:** Collection and image source: MoMA. Follow the Licensing section in the linked record; the museum's photograph is not reproduced here.
+### Example 1: LCW (Lounge Chair Wood), Charles and Ray Eames, ca. 1946
 
-### Example 2: Tulip armchair
+| Field | Record |
+|---|---|
+| Creator | Charles Eames and Ray Eames |
+| Title | LCW (Lounge chair wood) |
+| Date | ca. 1946 |
+| Institution | San Francisco Museum of Modern Art (SFMOMA), accession 93.9 |
+| Source | https://www.sfmoma.org/artwork/93.9/ |
+| Image credit / reuse | Check SFMOMA's reuse terms on the object page. **If they're unclear, link only.** |
 
-- **Creator:** Eero Saarinen; manufactured by Knoll International and William Latchford & Sons as recorded by NGV.
-- **Title:** *Tulip armchair*.
-- **Date:** Designed 1955–1956; museum example manufactured in the 1960s.
-- **Institution:** National Gallery of Victoria (NGV), Melbourne.
-- **Direct source and image:** [View the work and institutional record](https://www.ngv.vic.gov.au/explore/collection/work/20593/).
+**Why it matters:** The chair is made of molded plywood: a separate seat and back are shaped to the body and mounted on a simple wooden frame. It shows how new manufacturing methods could make a modern chair both comfortable and affordable. The Met holds another example ([The Met](https://www.metmuseum.org/art/collection/search/483859)).
 
-**What it demonstrates:** A curved seat rises from a single pedestal, replacing a cluster of conventional chair legs. The form demonstrates an organic approach to modern design and the possibilities of manufactured materials. Design and manufacture dates are recorded separately.
+**Feature to adapt:** Separate floating pieces. Place the headline and CTA as distinct rounded "panels" on a simple background.
 
-**Image credit and reuse:** Collection and image source: NGV. Individual credit and image rights are supplied by the record; no unrestricted reproduction permission is asserted.
+### Example 2: Tulip Chair, Eero Saarinen, designed 1956
 
-## Sources
+| Field | Record |
+|---|---|
+| Creator | Eero Saarinen (maker: Knoll Associates) |
+| Title | Tulip Chair |
+| Date | Designed 1956, this example manufactured c. 1960 |
+| Institution | Saint Louis Art Museum (object no. 8:2000, gift of Michael Ashworth) |
+| Source | https://www.slam.org/collection/objects/38546/ |
+| Image credit / reuse | SLAM lists the rights for this object as **Public Domain**. Confirm on the page, then credit "Saint Louis Art Museum" if you embed it. |
 
-- [MoMA: Low Side Chair, material development and production context](https://www.moma.org/collection/works/2298).
-- [National Gallery of Victoria (NGV), Melbourne: Tulip armchair](https://www.ngv.vic.gov.au/explore/collection/work/20593/).
+**Why it matters:** Saint Louis Art Museum explains that the single pedestal base was meant to replace the visual clutter of traditional chair legs. The Brooklyn Museum describes the design as the culmination of Saarinen's experiments with molded shells. ([Brooklyn Museum](https://www.brooklynmuseum.org/opencollection/objects/1588))
 
-Sources consulted October 1, 2026. Collection credit lines identify gifts or acquisitions; they are not, by themselves, image reproduction licenses.
+**Feature to adapt:** Reduce clutter. Remove every hero element that doesn't support the headline and CTA, and let one smooth form anchor the design.
+
+## 4. Sources
+
+- Saint Louis Art Museum, Eero Saarinen, *Tulip Chair*. https://www.slam.org/collection/objects/38546/
+- Brooklyn Museum, Eero Saarinen, *Tulip Armchair, Model No. 150*. https://www.brooklynmuseum.org/opencollection/objects/1588
+- SFMOMA, Charles and Ray Eames, *LCW (Lounge chair wood)*, ca. 1946. https://www.sfmoma.org/artwork/93.9/
+- The Metropolitan Museum of Art, Charles and Ray Eames, *"LCW" Side Chair*, ca. 1946. https://www.metmuseum.org/art/collection/search/483859

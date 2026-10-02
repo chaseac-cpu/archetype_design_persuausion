@@ -1,52 +1,59 @@
 # Bauhaus
 
-[Home](../README.md)
+**Category:** Modernist · [← Back to home](../README.md)
 
-## What is it?
+## 1. What is it?
 
-The Bauhaus was a German school founded by Walter Gropius in 1919 and closed in 1933. Its workshops connected art, craft, and the design of everyday objects. It belongs to modernism through its experiments with useful forms and new production methods, although its work changed over time and was never a single decorative recipe. [Historical context](https://www.vam.ac.uk/articles/modernist-architecture-the-bauhaus-and-beyond).
+The Bauhaus was a German art and design school, not just a "look." Architect Walter Gropius founded it in Weimar in 1919 with the goal of uniting architecture, craft, and the fine arts. Around 1923 the school shifted its focus toward designing prototypes for mass production, under the slogan "Art into Industry." It moved to Dessau in 1925 and then to Berlin, and it closed in 1933 under political pressure. Many of its teachers emigrated to the United States, where they shaped design education for decades. ([The Met](https://www.metmuseum.org/essays/the-bauhaus-1919-1933))
 
-## How do you recognize or use it?
+**Relationship to modernism:** The Bauhaus is one of modernism's most influential schools. It is not a synonym for all of modernism.
 
-- Basic geometric forms make an object's parts and functions visible.
-- Material choices influence construction instead of merely decorating an existing shape.
-- Reduced ornament directs attention toward proportion, structure, and use.
-- Artistic experiments coexist with practical questions about making and production.
+## 2. How do you recognize or use it?
 
-**Suggested application:** For a workshop or product website, use a small family of shapes to organize information. Give each element a job: a heading introduces, a diagram explains, and a button starts an action. This is an original contemporary application, not a historical Bauhaus website. Avoid treating a primary-color palette as sufficient evidence of the style.
+**Three visual features**
 
-## Examples
+1. **Basic geometry.** Circles, squares, and straight lines are used as building blocks, often for objects and posters alike.
+2. **Sans-serif type with strong contrast.** Bauhaus typography stressed clarity first. It favored sans-serif letters and often used photography as a graphic element. ([The Met](https://www.metmuseum.org/essays/the-bauhaus-1919-1933))
+3. **Form follows use.** Each part has a job. Decoration is kept only when it helps the object work.
 
-These are historical works. Open each institutional link to view the work. Images are linked rather than reproduced because an open reuse license has not been established. The brief design readings explain why the examples are relevant; suggested website applications above are original interpretations.
+**Audience and uses:** Brands that want to look clear, practical, and well made. It fits tools, education, tech, furniture, and architecture.
 
-### Example 1: Tea Infuser and Strainer
+**In a website hero:** Use a strict grid, one geometric shape as the focal point, a bold sans-serif headline, and a single high-contrast CTA button. Avoid using circles, triangles, and primary colors as decoration with no purpose. That turns the Bauhaus into a cliché.
 
-- **Creator:** Marianne Brandt.
-- **Title:** *Tea Infuser and Strainer*.
-- **Date:** ca. 1924.
-- **Institution:** The Metropolitan Museum of Art, New York.
-- **Direct source and image:** [View the work and institutional record](https://www.metmuseum.org/art/collection/search/491299).
+## 3. Examples
 
-**What it demonstrates:** The silver body and ebony handle translate familiar teapot parts into geometric forms. Its small size serves the preparation of concentrated tea. It demonstrates how practical use and sculptural form can be developed together.
+### Example 1: Teapot, Marianne Brandt, 1924
 
-**Image credit and reuse:** The Met, object 2000.63a–c; collection credit: The Beatrice G. Warren and Leila W. Redstone Fund, 2000. The record identifies Artists Rights Society rights; no open image license is assumed.
+| Field | Record |
+|---|---|
+| Creator | Marianne Brandt (Bauhaus Metal Workshop) |
+| Title | Teapot |
+| Date | 1924 |
+| Institution | The Museum of Modern Art, New York (object no. 186.1958.1a–c) |
+| Source | https://www.moma.org/collection/works/2438 |
+| Image credit / reuse | © MoMA. Reproduction is licensed through Art Resource, so **link only, don't embed**. |
 
-### Example 2: Club chair (model B3 / Wassily)
+**Why it matters:** Brandt made this as a student in the metal workshop. MoMA notes that although it was hand-made, it was one of her first attempts to design for industrial production. The pot is built from a hemisphere, a circle, and a cylinder.
 
-- **Creator:** Marcel Breuer.
-- **Title:** *Club chair (model B3 / Wassily)*.
-- **Date:** 1927–1928; an earlier version was designed in 1925.
-- **Institution:** The Museum of Modern Art (MoMA), New York.
-- **Direct source and image:** [View the work and institutional record](https://www.moma.org/collection/works/2851).
+**Feature to adapt:** Build a hero image from a few simple geometric volumes, with one contrasting element (like the dark ebony handle) to draw the eye to the CTA.
 
-**What it demonstrates:** Tubular steel outlines the chair while canvas supports the sitter. Compared with an upholstered club chair, the open frame makes construction prominent. It shows a material experiment changing an established furniture type.
+### Example 2: *Staatliches Bauhaus Ausstellung* poster, Joost Schmidt, 1923
 
-**Image credit and reuse:** MoMA, object 229.1934; collection credit: Gift of Herbert Bayer. Consult the record's Licensing section for reproduction.
+| Field | Record |
+|---|---|
+| Creator | Joost Schmidt |
+| Title | Staatliches Bauhaus Ausstellung |
+| Date | 1923 |
+| Institution | The Museum of Modern Art, New York (object no. 320.1957, gift of Walter Gropius) |
+| Source | https://www.moma.org/collection/works/6235 |
+| Image credit / reuse | © MoMA. Reproduction is licensed through Art Resource, so **link only, don't embed**. |
 
-## Sources
+**Why it matters:** This lithograph advertised the school's 1923 exhibition in Weimar. It combines lettering and geometric shapes into one composition, in a limited palette.
 
-- [V&A: The Bauhaus and beyond](https://www.vam.ac.uk/articles/modernist-architecture-the-bauhaus-and-beyond).
-- [The Metropolitan Museum of Art, New York: Tea Infuser and Strainer](https://www.metmuseum.org/art/collection/search/491299).
-- [The Museum of Modern Art (MoMA), New York: Club chair (model B3 / Wassily)](https://www.moma.org/collection/works/2851).
+**Feature to adapt:** Let the type and shapes form one structure, instead of placing text on top of a picture.
 
-Sources consulted October 1, 2026. Collection credit lines identify gifts or acquisitions; they are not, by themselves, image reproduction licenses.
+## 4. Sources
+
+- Griffith Winton, Alexandra. "The Bauhaus, 1919–1933." *Heilbrunn Timeline of Art History*, The Metropolitan Museum of Art. https://www.metmuseum.org/essays/the-bauhaus-1919-1933
+- MoMA, Marianne Brandt, *Teapot*, 1924. https://www.moma.org/collection/works/2438
+- MoMA, Joost Schmidt, *Staatliches Bauhaus Ausstellung*, 1923. https://www.moma.org/collection/works/6235
