@@ -123,7 +123,7 @@ The International Style is a particular architectural category associated with p
 
 Swiss Style, also called the International Typographic Style, uses typography and organized composition as central tools. Its name can be confusing: **International Typographic Style refers to graphic design, while International Style commonly refers to architecture.** The two should not be treated as interchangeable labels. [Sources: Cooper Hewitt](https://www.cooperhewitt.org/2018/08/05/aharmonyofcontrasts/) and [MoMA](https://www.moma.org/collection/terms/international-style)
 
-For additional discussions of De Stijl, Constructivism, and related visual approaches, see [Design Styles within Modernism and Postmodernism](Design%20Styles%20within%20Modernism%20and%20Postmodernism.md).
+For additional discussions, see the pages on [De Stijl](modernism/de-stijl.md), [Constructivism](modernism/constructivism.md), and the other [modernist design styles](modernism/).
 
 ## 7. Three historical examples
 
