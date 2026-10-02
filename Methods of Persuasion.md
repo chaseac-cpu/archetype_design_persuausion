@@ -2,7 +2,7 @@
 
 This guide interprets “Methods of Persuasion 1–7” as Robert Cialdini’s seven principles of persuasion. Each section includes an original, hypothetical design example and a referenced example from research or a published account. The explanations connect the examples to the principles; study findings are specific to their settings, not guaranteed results for every website.
 
-## 1. Reciprocity
+## 1. [Reciprocity](persuasion/reciprocity.md)
 
 **Definition:** People tend to want to return a favor after receiving something valuable.
 
@@ -14,7 +14,7 @@ This guide interprets “Methods of Persuasion 1–7” as Robert Cialdini’s s
 
 **Reference:** Strohmetz, D. B., Rind, B., Fisher, R., & Lynn, M. (2002). [Sweetening the Till: The Use of Candy to Increase Restaurant Tipping](https://doi.org/10.1111/j.1559-1816.2002.tb00216.x). *Journal of Applied Social Psychology, 32*(2), 300–309.
 
-## 2. Scarcity
+## 2. [Scarcity](persuasion/scarcity.md)
 
 **Definition:** People often value an opportunity more when its availability is limited.
 
@@ -26,7 +26,7 @@ This guide interprets “Methods of Persuasion 1–7” as Robert Cialdini’s s
 
 **Reference:** Influence at Work. [The Science of Persuasion — Scarcity section](https://www.influenceatwork.com/7-principles-of-persuasion/).
 
-## 3. Authority
+## 3. [Authority](persuasion/authority.md)
 
 **Definition:** People are more likely to follow guidance from credible, knowledgeable experts.
 
@@ -38,7 +38,7 @@ This guide interprets “Methods of Persuasion 1–7” as Robert Cialdini’s s
 
 **Reference:** Influence at Work. [The Science of Persuasion — Authority section](https://www.influenceatwork.com/7-principles-of-persuasion/).
 
-## 4. Commitment and Consistency
+## 4. [Commitment and Consistency](persuasion/commitment-consistency.md)
 
 **Definition:** People tend to act consistently with commitments they have already made, especially voluntary ones.
 
@@ -50,7 +50,7 @@ This guide interprets “Methods of Persuasion 1–7” as Robert Cialdini’s s
 
 **Reference:** Freedman, J. L., & Fraser, S. C. (1966). [Compliance without pressure: The foot-in-the-door technique](https://web.mit.edu/curhan/www/docs/Articles/15341_Readings/Influence_Compliance/Freedman_Fraser_Foot-in-the-door.pdf). *Journal of Personality and Social Psychology, 4*(2), 195–202. DOI: `10.1037/h0023552`.
 
-## 5. Liking
+## 5. [Liking](persuasion/liking.md)
 
 **Definition:** People are more receptive to requests from people they like or relate to.
 
@@ -62,7 +62,7 @@ This guide interprets “Methods of Persuasion 1–7” as Robert Cialdini’s s
 
 **Reference:** Influence at Work. [The Science of Persuasion — Liking section](https://www.influenceatwork.com/7-principles-of-persuasion/).
 
-## 6. Social Proof (Consensus)
+## 6. [Social Proof (Consensus)](persuasion/social-proof.md)
 
 **Definition:** People look to others' behavior for guidance, particularly when they are uncertain.
 
@@ -76,7 +76,7 @@ This guide interprets “Methods of Persuasion 1–7” as Robert Cialdini’s s
 
 **Research context:** A later replication by Bohner and Schlüter (2014) did not reproduce the original pattern consistently. The example demonstrates a reported effect whose strength depends on context. [A Room with a Viewpoint Revisited](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0104086), *PLOS ONE, 9*(8), e104086.
 
-## 7. Unity
+## 7. [Unity](persuasion/unity.md)
 
 **Definition:** A shared group identity can make people more receptive to one another's influence.
 

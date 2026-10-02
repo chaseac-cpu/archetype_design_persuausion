@@ -15,4 +15,4 @@
 
 ## About me
 
-[Read my contributions and reflection](members/about_me.md).
+[Read my contributions and reflection](members/about_me_chase.md).

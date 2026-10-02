@@ -1,8 +1,8 @@
-# About Me
+# Chase Carty — About Me
 
 [Home](../README.md)
 
-**Name:** To be added before submission.
+**Name:** Chase Carty
 
 ## About me
 
@@ -37,4 +37,4 @@ Working with Git helped me understand that saving a file, committing it, pushing
 
 ChatGPT/Codex assisted with drafting explanations, finding and checking source records, organizing Markdown pages, and explaining Git commands. I provided the requests and revision decisions recorded above. The historical examples and images are credited to their creators and institutions on the individual pages; they are not my original artwork.
 
-**Review before submission:** Add my name and any personal introduction, confirm that the reflection describes my own experience, add actual issue and teammate credits where applicable, and update completion statuses. This draft does not claim that I independently wrote all content or personally verified every reference.
+**Review before submission:** Add any personal introduction, confirm that the reflection describes my own experience, add actual issue and teammate credits where applicable, and update completion statuses. This draft does not claim that I independently wrote all content or personally verified every reference.
